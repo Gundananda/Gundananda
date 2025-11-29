@@ -1,6 +1,6 @@
 <!-- Wavy animated-style header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sai%20Shivananda&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40&font=sans-serif&color=0:2b5876,100:4e4376&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sai%20Shivananda&fontColor=ffffff&fontSize=45&fontAlign=50&fontAlignY=40&font=Fira+Code&color=0:2b5876,100:4e4376&animation=fadeIn" />
 </p>
 
 <p align="center">
