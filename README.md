@@ -75,7 +75,3 @@ Right now I'm exploring better ways to combine **transformers + classical ML** a
 
 
 ---
-
-<p align="center">
-  <em>Minimal UI. Maximum learning. Real AI.</em>
-</p>
