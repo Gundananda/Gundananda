@@ -1,8 +1,7 @@
 <!-- Wavy animated-style header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sai%20Shivananda&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=40&font=cursive&color=0:2b5876,100:4e4376&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sai%20Shivananda&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&font=system-ui&color=0:2b5876,100:4e4376&animation=fadeIn" />
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=4F9CF9&size=24&center=true&vCenter=true&width=700&lines=Deep+Learning+Enthusiast;Building+AI+systems+that+actually+ship;NLP+Research+Enthusiast;Mental+Health+AI+%26+Hybrid+Models" />
