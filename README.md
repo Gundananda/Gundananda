@@ -1,110 +1,84 @@
-<!-- ======================================================
-🍎 Modern Apple-Gradient Banner (clean + premium)
-====================================================== -->
+<!-- Wavy animated-style header -->
 <p align="center">
-  <img src="https://i.imgur.com/3wEDk37.png" width="90%" style="border-radius: 18px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sai%20Shivananda&fontAlign=50&fontAlignY=40&color=0:2b5876,100:4e4376&section=header&animation=fadeIn" />
 </p>
 
-<h1 align="center" style="font-weight: 700;">Sai Shivananda</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=900&color=6A5AE0&center=true&vCenter=true&width=650&lines=NLP+%26+Deep+Learning+Enthusiast;Machine+Learning+Engineer;Always+Learning.+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4F9CF9&size=24&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;NLP+%26+Deep+Learning+Enthusiast;Building+AI+systems+that+actually+ship" />
 </p>
 
 ---
 
-<!-- ======================================================
-✨ Hey There Section (same layout, upgraded aesthetic)
-====================================================== -->
-<h3>👋 Hey there</h3>
+<table align="center">
+<tr>
+<td width="58%">
 
-I'm Sai, a developer who enjoys working on:
+### 👋 Hey there
+
+I'm **Sai**, a developer who enjoys working on:
 
 - 🧠 **ML & Deep Learning**
-- 💬 **NLP (mental-health text, embeddings, transformers)**
+- 💬 **NLP & mental-health text**
 - 👁️ **Computer Vision (FaceNet, ViT, etc.)**
 - ⚙️ **Clean, production-ready pipelines**
 
-Right now, I'm exploring better ways to combine **transformers + classical ML**  
-and make models that actually generalize.
+Right now I'm exploring better ways to combine **transformers + classical ML** and make models that **actually generalize**.
 
-<p align="right">
-  <img src="https://i.imgur.com/6YV6DkC.png" width="260px" />
+</td>
+<td width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech I’m Comfortable With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,r,java,js,git,github,linux,aws,vscode&perline=7" />
 </p>
 
 ---
 
-<!-- ======================================================
-🛠 Tech Section (same layout + Apple-gradient icons)
-====================================================== -->
-<h3>🧰 Tech I'm Comfortable With</h3>
+### 📌 What I’m Doing Now
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,java,js,linux,git,aws,vscode&theme=light" />
-</p>
-
----
-
-<!-- ======================================================
-🧪 What I'm Doing (same bullet layout)
-====================================================== -->
-<h3>🧪 What I'm Doing Now</h3>
-
-- 🎯 Playing with **Hybrid BERT + classical ML** setups  
+- 🚀 Playing with **hybrid BERT + classical ML** setups  
 - 🌐 Working on **Hinglish sentiment models**  
-- 🩺 Experimenting with **medical imaging (skin disease)**  
-- ⚡ Trying new **training tricks & evaluation ideas**
+- 🩺 Experimenting with **medical imaging (skin disease, etc.)**  
+- 🧪 Trying out new **training tricks & evaluation ideas**  
 
 ---
 
-<!-- ======================================================
-💡 Interests Section (kept simple)
-====================================================== -->
-<h3>💡 Interests (Outside Pure Coding)</h3>
+### 🎯 Interests (Outside Pure Coding)
 
 - Reading about **ML system design & MLOps**
 - Visualizing data in clean, minimal ways  
-- Writing ideas for future research work
+- Writing up ideas for **future research projects**
 
 ---
 
-<!-- ======================================================
-📬 Contact Section (same layout)
-====================================================== -->
-<h3>📫 Reach Me</h3>
+### 📫 Reach Me
 
 <p>
   <a href="mailto:gunda.nanda2@gmail.com">
-    <img height="28" src="https://img.shields.io/badge/Email-6A5AE0?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="28" src="https://img.shields.io/badge/Email-2b5876?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/sai-shivananda-gunda/">
-    <img height="28" src="https://img.shields.io/badge/LinkedIn-4C8BF5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Gundananda">
-    <img height="28" src="https://img.shields.io/badge/GitHub-1F1F1F?style=for-the-badge&logo=github&logoColor=white">
+    <img height="28" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
----
 
-<!-- ======================================================
-📊 Optional GitHub Overview (kept same)
-====================================================== -->
-<details>
-<summary><strong>📊 (Optional) GitHub Overview</strong></summary>
-<br>
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Gundananda&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gundananda&layout=compact&theme=tokyonight&hide_title=true" />
-</p>
-
-</details>
 
 ---
 
-<!-- ======================================================
-🍎 Apple-Gradient Footer (clean + matching)
-====================================================== -->
 <p align="center">
-  <img src="https://i.imgur.com/ELrheAg.png" width="90%" style="border-radius: 18px;" />
+  <em>Minimal UI. Maximum learning. Real AI.</em>
 </p>
