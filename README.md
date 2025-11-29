@@ -19,7 +19,7 @@ I'm **Sai**, a developer who enjoys working on:
 
 - 🧠 **ML & Deep Learning**
 - 💬 **NLP & mental-health text**
-- 👁️ **Computer Vision (FaceNet, ViT, etc.)**
+- 👁️ **Computer Vision**
 - ⚙️ **Clean, production-ready pipelines**
 
 Right now I'm exploring better ways to combine **transformers + classical ML** and make models that **actually generalize**.
@@ -46,8 +46,7 @@ Right now I'm exploring better ways to combine **transformers + classical ML** a
 ### 📌 What I’m Doing Now
 
 - 🚀 Playing with **hybrid BERT + classical ML** setups  
-- 🌐 Working on **Multitasking Hinglish sentiment models**  
-- 🩺 Experimenting with **medical imaging (skin disease, etc.)**  
+- 🌐 Working on **Multitasking Hinglish sentiment models**   
 - 🧪 Trying out new **training tricks & evaluation ideas**
 - 🧩 Exploring **autism detection using multimodal approaches**
 
@@ -56,7 +55,6 @@ Right now I'm exploring better ways to combine **transformers + classical ML** a
 ### 🎯 Interests (Outside Pure Coding)
 
 - Reading about **ML system design & MLOps**
-- Visualizing data in clean, minimal ways  
 - Writing up ideas for **future research projects**
 
 ---
