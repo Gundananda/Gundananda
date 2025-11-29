@@ -1,27 +1,28 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/HpJhQm0.png" width="80%" />
+  <img src="https://i.imgur.com/yOZQ6zR.png" width="85%" />
 </p>
 
-<h2 align="center">Hello stranger! I'm <strong>Sai Shivananda</strong> 👋</h2>
-<p align="center">You're the algorithm… and I'm your friendly AI engineer 😊</p>
+<h2 align="center">Hello! I'm <strong>Sai Shivananda</strong> 👋</h2>
+<p align="center">ML Engineer · NLP Researcher · Deep Learning Enthusiast</p>
 
 ---
 
-## 🧸 About Me  
-Hi! I'm an AI/ML developer who loves building **smart, minimal, elegant ML systems**.  
-I enjoy working on **NLP, mental health AI, transformers, and computer vision**.  
-When I'm not training models, I'm experimenting, learning new things, or creating clean projects ✨
+## 👨‍💻 About Me  
+I'm an AI/ML developer focused on building **practical, scalable, real-world machine learning systems**.  
+My work revolves around **NLP, deep learning architectures, clinical text mining, and computer vision**.
+
+I enjoy experimenting with models, improving training efficiency, and understanding how AI behaves under real conditions.
 
 ---
 
 ## 🌐 Connect With Me  
 <p align="left">
   <a href="mailto:gunda.nanda2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F37A7A?style=for-the-badge&logo=gmail&logoColor=white">
+    <img height="28" src="https://img.shields.io/badge/Email-2D3748?style=flat-square&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/sai-shivananda-gunda/">
-    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -34,36 +35,47 @@ When I'm not training models, I'm experimenting, learning new things, or creatin
 
 ---
 
-## 🌱 What I'm Learning  
-- 🤖 Advanced NLP (Transformers, LLMs, token engineering)  
-- 🩺 Medical AI models (ViT, hybrid CNNs)  
-- ⚙️ MLOps & efficient training  
-- 🌐 Hinglish low-resource NLP  
+## 🚀 Featured Projects  
+
+### 🧠 Mental Health Sentiment Analysis (Hybrid BERT)
+Hybrid **BERT + TF-IDF + stacking** model achieving **93.21% accuracy** across 7 clinical sentiment classes.  
+Focus: Hybrid embeddings, class imbalance handling, real-world robustness.
 
 ---
-
-## ✨ Featured Work  
-### 🧠 Mental Health Sentiment Analysis (Hybrid BERT)  
-A hybrid BERT + TF-IDF stacking model achieving **93.21% accuracy** on 7-class mental-health text.
 
 ### 🌐 Hinglish Multilingual NLP  
-A transformer-based pipeline built for real-world Indian social media text.
+Transformer-based sentiment analysis for code-mixed Hindi–English social text.  
+Designed for noisy, low-resource NLP environments.
+
+---
 
 ### 👤 Face Verification (MTCNN + FaceNet)  
-Embedding-based face recognition with high precision.
-
-### 🩺 Skin Disease Classification (ViT Hybrid)  
-20-class medical image classifier with hybrid CNN + attention.
+Embedding-based face matching system using FaceNet + cosine similarity.  
+Evaluated with ROC/AUC for practical reliability.
 
 ---
 
-## 🧸 A Cute Touch  
-<p align="center">
-  <img src="https://i.imgur.com/2JAfYxD.gif" width="250px" />
-</p>
+### 🩺 20-Class Skin Disease Classifier (CNN Hybrid)  
+Hybrid **ResNet + DenseNet + Attention** model for medical dermatology imaging.  
+20K+ images → **84% accuracy**.
+
+---
+
+## 📄 Research  
+- **Hybrid BERT Ensemble for Mental-Health Text Classification** (Under Review, 2025)  
+- *Visualization Techniques for Sentiment-Oriented Text Data* (2025)  
+- *From Text to Therapy: Mental Health NLP Insights* (2025)
+
+---
+
+## 🎓 Certifications  
+- Oracle Cloud – Data Science  
+- Harvard CS50  
+- AWS Cloud Foundations  
+- Cisco Python & JavaScript  
 
 ---
 
 <p align="center">
-  <em>“Learning, creating, and building meaningful AI — one model at a time.”</em>
+  <em>“Clear thinking → clean models → meaningful impact.”</em>
 </p>
